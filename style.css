@@ -5,7 +5,7 @@ body {
   .candle-count-display {
     text-align: center;
     margin-top: 150px;
-    margin-bottom: 20px;
+    margin-bottom: 320px;
     font-family: 'Arial', sans-serif;
     font-size: 30px;
     font-weight: bold;
@@ -213,7 +213,7 @@ body {
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       width: fit-content;
-      margin: 20px auto;
+      margin: 320px auto;
       border: 2px solid #ffc2d1;
   }
   
